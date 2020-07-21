@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
 	  <p className="App-intro">
-		Hi There///%%%%%%#$#%%?
+		Hi There, i was changed on feature branch
 	  </p>
     </div>
   );
